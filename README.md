@@ -12,6 +12,8 @@ Crie um app mobile ou site web que servirá como um blog de publicações e come
 - [ ]  Deverá ser possível excluir o post.
 - [ ]  Criar um Pull Request no repositório do teste ao finalizar e avisar através do e-mail: **vitor.cazelatto-sc@airliquide.com**
 
+test
+
 **API de consumo dos Posts, Usuários e comentários:**
 
 Posts → [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts)
